@@ -1,0 +1,24 @@
+body {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 2em;
+  background-image: url("https://evoplay.games/wp-content/uploads/2021/03/Blackjack-bg.jpg");
+  color: white;
+  text-align: center;
+  font-weight: bold;
+}
+h1 {
+  color: goldenrod;
+}
+#mssg {
+  font-style: italic;
+}
+button {
+  background-color: goldenrod;
+  font-size: 1em;
+  border-radius: 1rem;
+  padding: 10px;
+  font-weight: bold;
+  width: 10em;
+  margin-bottom: 4px;
+}
